@@ -7,7 +7,7 @@ decorator==3.4.0
 django-cors-headers==1.1.0
 django-filter==0.12.0
 django-pgjson==0.3.1
-djangorestframework==3.3.2
+djangorestframework==3.11.2
 djangorestframework-gis==0.10.1
 djangorestframework-jwt==1.7.2
 html5lib==0.999
